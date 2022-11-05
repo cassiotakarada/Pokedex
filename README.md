@@ -1,4 +1,4 @@
- Pokedex
+# Pokedex
 
 ### Criei uma Pokédex utilizando apenas HTML, CSS e JavaScript + API
 
